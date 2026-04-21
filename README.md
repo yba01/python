@@ -1,27 +1,36 @@
-# Python Exercises Portfolio
-
+#  Python Practice – Data Engineering
 Hi, I'm Yero 👋🏾
-This repository contains my Python practice exercises as I build my skills toward Data Engineering.
+This repository contains my **Python exercises and mini-projects** while learning data engineering.
 
-## 📌 What you'll find here
-- Python basics (loops, functions, conditions)
-- File handling (CSV, JSON)
-- Error handling
-- Mini projects
+---
 
-## 🛠️ Technologies
-- Python 3
+##  Structure
+
+```
+POO/                # Object-Oriented Programming (student management system)
+Procedural/         # Exercises by level (basic → advanced)
+README.md
+```
+
+---
+
+##  Focus
+
+* Python fundamentals
+* Data validation & processing
+* Code structure (modular, clean)
+
+---
+
+##  Run
+
+```bash
+cd POO/student_management
+python main.py
+```
+
+---
 
 ## 🎯 Goal
-Improve problem-solving and prepare for real-world data projects.
 
-## 📁 Structure
-- basics/
-- intermediate/
-  advanced/
-  mini_project/
-- data/
-
-## 🚀 Next steps
-- Add data projects
-- Build pipelines
+Build strong Python skills for data engineering.
