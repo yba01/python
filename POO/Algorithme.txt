@@ -1,0 +1,20 @@
+Étudiant
+    données(code, numero,...,liste de 6 Note)
+    état valide/invalide
+    erreurs
+    pour chaque etudiant valide on peut calculer la moyenne des differents matieres.
+Notes
+    contient matière + devoirs + examen
+ParserNote
+    transforme string → liste de Note
+Validateur
+    valide un étudiant
+    retourne erreurs
+GestionDonnees
+    contient UNE liste
+    ajoute / modifie / supprime
+    appelle le validateur
+FileReader
+    lit fichier → crée étudiants
+Menu
+appelle GestionDonnees
